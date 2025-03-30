@@ -40,8 +40,8 @@ Aplicación desarrollada en Python con PyQt5 para gestionar notas de manera inte
 
 ## Preview 
 
+![alt text](image.png)
 
 ---
+- **Desarrollado por Harry Fishert**
 
-
-- Desarrollado por Harry Fishert 
