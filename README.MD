@@ -38,10 +38,10 @@ Aplicación desarrollada en Python con PyQt5 para gestionar notas de manera inte
 
 ---
 
-## Autor
-- **Harry Fishert**
-- [GitHub](https://github.com/Fishertdevs)
+## Preview 
+
 
 ---
 
-¡Gracias por usar esta aplicación!
+
+- Desarrollado por Harry Fishert 
